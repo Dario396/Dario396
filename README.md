@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dário</h1>
-<h3 align="center">A second year student of the Bachelor's Degree in Informatics and Computer Engineering at <a href="https://sigarra.up.pt/feup/en/web_page.inicial">@FEUP</a>.</h3>
+<h3 align="center">3rd year student of the Bachelor's Degree in Informatics and Computer Engineering at <a href="https://sigarra.up.pt/feup/en/web_page.inicial">@FEUP</a>.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dario396&label=Profile%20views&color=0e75b6&style=flat" alt="dario396" />
